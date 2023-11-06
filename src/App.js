@@ -1,10 +1,12 @@
 import { useState } from 'react';
 import './App.css';
+// import TipCalculator from './second method';
 
 function App() {
   return (
     <div className="">
     <Form/>
+    {/* <TipCalculator/> */}
     </div>
   );
 }
